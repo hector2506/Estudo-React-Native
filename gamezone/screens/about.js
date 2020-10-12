@@ -1,6 +1,7 @@
 import React from 'react'
 import { View, Text } from 'react-native'
 import { globalStyles } from '../styles/global'
+import Header from '../shared/header'
 
 export default function About() {
     return (
